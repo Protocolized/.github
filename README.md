@@ -1,1 +1,1 @@
-# Welcome to the Protocolized GitHub
+# Welcome to the Protocol Institute GitHub
